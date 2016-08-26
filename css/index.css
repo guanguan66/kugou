@@ -1,0 +1,304 @@
+.song{
+	margin:0 auto;
+	width:1000px;
+	height:440px;
+}
+.playlist{
+	float:left;
+	width:660px;
+	height:440px;
+}
+.playlist-head{
+	width:660px;
+	height:100px;
+}
+.playlist h1{
+	float:left;
+	line-height:100px;
+}
+.playlist a{
+	float:right;
+	line-height:100px;
+	font-size:12px;
+	color: #999;
+}
+.playlist a:hover{
+	color:#0C8ED9;
+}
+.playlist img{
+	width:160px;
+	height:160px;
+}
+.woman img{
+	width:325px;
+	height:325px;
+}
+.woman{
+	position:relative;
+	width:325px;
+	height:325px;	
+}
+.girl{
+	position:relative;
+	width:160px;
+	height:160px;
+}
+.window{
+	position:relative;
+	width:160px;
+	height:160px;
+}
+.newsong{
+	position:relative;
+	width:160px;
+	height:160px;
+}
+.man{
+	position:relative;
+	width:160px;
+	height:160px;
+}
+.gray{
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+	background-color:#777777;
+	background-image:url(../img/picture-button.png);
+	background-repeat: no-repeat;
+	background-size:40px,40px;
+	background-position:center;
+	opacity:0;
+}
+.gray:hover{
+	opacity:0.7;
+}
+.playlist div{
+	float:left;
+	margin-top:2px;
+	margin-left:2px;
+}
+.hot{
+	width:320px;
+	height:440px;
+	float:right;
+}
+.hot-head{
+	width:320px;
+	height:100px;
+}
+.hot h1{
+	float:left;
+	line-height:100px;
+}
+.hot a{
+	float:right;
+	line-height:100px;
+	font-size:12px;
+	color: #999;
+}
+.hot a:hover{
+	color:#0C8ED9;
+}
+.hot ul li img{
+	width:98px;
+	height:98px;
+	float:left;
+}
+.hot ul li h1{
+	font-size:14px;
+	line-height:24px;
+    color:#333;
+    font-weight:700;
+    float:left;
+    margin-left:20px;
+}
+.hot ul li p{
+	margin-left:20px;
+	margin-top:5px;
+	font-size: 15px;
+	color:#555;
+	float:left;
+}
+.hot ul li{
+	width:320px;
+	height:100px;
+	background-color:#eff1f5;
+	margin-top:10px;
+}
+.radio{
+	background-position:center;
+	background-image:url(../img/radio.jpg);
+	background-repeat:no-repeat;
+	height:100px;
+	margin-top:30px;
+}
+.music{
+	margin:0 auto;
+	width:1000px;
+	height:440px;
+}
+.pop-radio{
+	float:left;
+	width:660px;
+	height:440px;
+}
+.music-icon img:hover{
+	opacity:0.7;
+}
+.radio-head{
+	width:660px;
+	height:100px;
+}
+.radio-head h1{
+	float:left;
+	line-height:100px;
+}
+.radio-head a{
+	float:right;
+	line-height:100px;
+	font-size:12px;
+	color: #999;
+}
+.radio-head a:hover{
+	color:#0C8ED9;
+}
+.pop-radio h2{                    
+    line-height: 20px;
+    font-size: 14px;
+    text-align:center;
+}
+.music-icon{
+	width:100px;
+	height:100px;
+	float:left;
+	margin-right:32px;
+	margin-top:40px;
+}
+.pop-radio img{
+	border-radius:50%;
+	width:100px;
+	height:100px;
+}
+.singer{
+	width:320px;
+	height:440px;
+	float:right;
+}
+.hot-singer{
+	width:320px;
+	height:100px;
+}
+.hot-singer ul li{
+	display:inline-block;
+	margin-left:17px;
+}
+.hot-singer h1{
+	float:left;
+	line-height:100px;
+}
+.hot-singer a{
+	float:right;
+	line-height:100px;
+	font-size:12px;
+	color: #999;
+}
+.hot-singer a:hover{
+	color:#0C8ED9;
+}
+.singer-picture{
+	margin-top:32px;
+}
+.singer-picture img{
+	width:105px;
+	height:105px;
+}
+.singer-picture div{
+	float:left;
+}
+.xue img{
+	width:160px;
+	height:160px;
+}
+.zhuang img{
+	width:160px;
+	height:160px;
+}
+.xue{
+	position:relative;
+	width:160px;
+	height:160px;	
+}
+.zhuang{
+	position:relative;
+	width:160px;
+	height:160px;	
+}
+.jay{
+	position:relative;
+	width:105px;
+	height:105px;	
+}
+.eason{
+	position:relative;
+	width:105px;
+	height:105px;	
+}
+.tfboy{
+	position:relative;
+	width:105px;
+	height:105px;	
+}
+.kugou-m1{
+	background-position:center;
+	background-image:url(../img/kugou-m1.jpg);
+	background-repeat:no-repeat;
+	height:100px;
+	margin-top:100px;
+}
+.friend{
+	margin:0 auto;
+	width:1000px;
+}
+.friend-head{
+	width:1000px;
+	height:100px;
+}
+.friend-head h1{
+	float:left;
+	line-height:100px;
+}
+.friend-head a{
+	float:right;
+	line-height:100px;
+	font-size:12px;
+	color: #999;
+}
+.friend-head a:hover{
+	color:#0C8ED9;
+}
+.friend-list ul li{
+	margin-top:15px;
+	margin-left:4px;
+	display:inline-block;
+	width:130px;
+	height:58px;
+	border: 1px dashed #ccc;
+}
+.friendlink{
+	width:1000px;
+}
+.friendlink ul li{
+	display:inline-block;
+	width: 115px;
+    height: 24px;
+    margin-bottom: 20px;
+}
+.friendlink a{
+	font-size:12px;
+	color: #555;
+}
+.friendlink a:hover{
+	color:#0C8ED9;
+}
